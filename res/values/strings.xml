@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tic-tac-toe</string>
+    <string name="dummy_button">Restart</string>
+    <string name="dummy_content"></string>
+    <string name="Restart">strRestart</string>
+    <string name="strRestart">Restart</string>
+    <string name="strEmpty"></string>
+
+</resources>
